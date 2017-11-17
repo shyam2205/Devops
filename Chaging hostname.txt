@@ -1,0 +1,8 @@
+34.227.106.145
+CS-ip-172-31-82-243
+
+
+If we change the hostname , and after that if we are not getting the hostname -f
+then change the /etc/hosts : <Ip-address> <hostname> <hostname.com>
+
+
